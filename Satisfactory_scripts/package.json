@@ -1,0 +1,16 @@
+{
+  "name": "satisfactory_scripts",
+  "version": "1.0.0",
+  "description": "To do things with satisfactory saves.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node -s parse_save_headers.ts"
+  },
+  "author": "me",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.11.17",
+    "csv-parse": "^5.3.3"
+  }
+}

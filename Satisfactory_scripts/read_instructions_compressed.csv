@@ -1,0 +1,8 @@
+name,type
+uncompressed_size,int
+sublevel_count,int
+Level,
+sublevel_name,string
+object_header_and_coll_size,int
+object_header_count,int
+object_headers,object_headers
